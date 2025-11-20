@@ -6,7 +6,7 @@
 Purpose: Initialize the Student Model by capturing pace, interest, prior knowledge, and skills.
 
 1. I am familiar with the subject of this course.  
-   - Strongly Disagree / Disagree / Neutral / Agree / Strongly Agree
+   - Strongly Disagree - Disagree - Neutral - Agree - Strongly Agree
 2. List the topics in this subject area that you feel most confident about. (Open)
 3. List the topics you find challenging. (Open)
 4. My preferred learning pace is: Slow / Moderate / Fast
